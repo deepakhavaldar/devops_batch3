@@ -1,3 +1,8 @@
  coooooooooooooooooo
  cool anth mao
+<<<<<<< HEAD
 Bolo bait
+=======
+
+Math bolao
+>>>>>>>  new file M
